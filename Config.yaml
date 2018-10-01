@@ -4,10 +4,10 @@ Sessions:
  rpm: ’010’
 -StartTime: ’15:30’
  endTime: ’15:55’
- rpm: ‘000’
+ rpm: ‘020’
 -StartTime: ’16:00’
  endTime: ’16:30’
- rpm: ‘000’
+ rpm: ‘010’
 -StartTime: ’16:30’
  endTime: ’16:55’
- rpm: ‘000’
+ rpm: ‘005’
