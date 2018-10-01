@@ -1,13 +1,13 @@
 sessions:
-- startTime: ’15:00’
-  endTime: ’15:29’
+- startTime: ’04:00’
+  endTime: ’04:29’
   rpm: ’010’
-- startTime: ’15:30’
-  endTime: ’15:55’
+- startTime: ’04:30’
+  endTime: ’04:55’
   rpm: ‘020’
-- startTime: ’16:00’
-  endTime: ’16:30’
+- startTime: ’05:00’
+  endTime: ’05:30’
   rpm: ‘010’
-- startTime: ’16:30’
-  endTime: ’16:55’
+- startTime: ’05:30’
+  endTime: ’05:55’
   rpm: ‘005’
