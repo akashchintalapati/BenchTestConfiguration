@@ -1,13 +1,13 @@
 sessions:
 - startTime: 17:00
   endTime: 17:10
-  rpm: 010
+  rpm: 000
 - startTime: 17:11
   endTime: 17:15
-  rpm: 020
+  rpm: 000
 - startTime: 17:16
   endTime: 17:20
-  rpm: 010
+  rpm: 000
 - startTime: 17:21
   endTime: 17:25
-  rpm: 005
+  rpm: 000
