@@ -1,0 +1,80 @@
+[
+  {
+    "display_name": "RPM",
+    "key": "RPM"
+  },
+  {
+    "display_name": "Controller Temperature",
+    "key": "SevTmp"
+  },
+  {
+    "display_name": "Motor Temperature",
+    "key": "MtrTmp"
+  },
+  {
+    "display_name": "Battery Current",
+    "key": "Batt_i"
+  },
+  {
+    "display_name": "Vehicle Id",
+    "key": "ID"
+  },
+  {
+    "display_name": "Charging Status",
+    "key": "IsCharging"
+  },
+  {
+    "display_name": "State of Charge",
+    "key": "Soc"
+  },
+  {
+    "display_name": "Actual motor voltage",
+    "key": "ActMotorVolt"
+  },{
+    "display_name": "Actual motor current",
+    "key": "ActMotorCurr"
+  },
+  {
+    "display_name": "Actual motor Torque",
+    "key": "ActMotorTorq"
+  },
+  {
+    "display_name": "Target motor Torque",
+    "key": "TargetMotorTorq"
+  },
+  {
+    "display_name": "CId",
+    "key": "CId"
+  },
+  {
+    "display_name": "CIq",
+    "key": "CIq"
+  },
+  {
+    "display_name": "Ud",
+    "key": "Ud"
+  },
+  {
+    "display_name": "Uq",
+    "key": "Uq"
+  },
+  {
+    "display_name": "Motor Current",
+    "key": "Mot_i"
+  },
+  {
+    "display_name": "Capacitor Voltage",
+    "key": "CapVolt"
+  },
+  {
+    "display_name": "BMS Connected",
+    "key": "BMSConnected"
+  },
+  {
+    "display_name": "Cell Temperature Maximum",
+    "key": "cellTempMax"
+  },
+  {
+    "display_name": "Cell Temperature Minimum",
+    "key": "cellTempMin"
+  }]
