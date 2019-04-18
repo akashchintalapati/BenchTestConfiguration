@@ -115,22 +115,18 @@
     "key": "HWstatus"
   },
   {
-    "display_name": "Comm status",
-    "key": "Commstatus"
-  },
-  {
-    "display_name": "Op Char Voltage,
+    "display_name": "OpChar Voltage",
     "key": "OpCharVoltage"
   },
-  {
+   {
     "display_name": "OpChar Current",
     "key": "OpCharCurrent"
   },
-  {
+   {
     "display_name": "HChar Voltage",
     "key": "HCharVoltage"
   },
-  {
+   {
     "display_name": "HChar Current",
     "key": "HCharCurrent"
   }]
