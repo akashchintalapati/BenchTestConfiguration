@@ -129,4 +129,8 @@
    {
     "display_name": "HChar Current",
     "key": "HCharCurrent"
+  },
+  {
+    "display_name": "Battery Temperature",
+    "key": "BattTemp"
   }]
