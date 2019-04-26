@@ -1,136 +1,172 @@
 [
   {
     "display_name": "RPM",
-    "key": "RPM"
+    "key": "RPM",
+    "field_type": "Integer"
   },
   {
     "display_name": "Controller Temperature",
-    "key": "SevTmp"
+    "key": "SevTmp",
+    "field_type": "Float"
   },
   {
     "display_name": "Motor Temperature",
-    "key": "MtrTmp"
+    "key": "MtrTmp",
+    "field_type": "Float"
   },
   {
     "display_name": "Battery Current",
-    "key": "Batt_i"
+    "key": "Batt_i",
+    "field_type": "Float"
   },
   {
     "display_name": "Vehicle Id",
-    "key": "ID"
+    "key": "ID",
+    "field_type": "String"
   },
   {
     "display_name": "Charging Status",
-    "key": "IsCharging"
+    "key": "IsCharging",
+    "field_type": "Boolean"
   },
   {
     "display_name": "State of Charge",
-    "key": "Soc"
+    "key": "Soc",
+    "field_type": "Float"
   },
   {
     "display_name": "Actual motor voltage",
-    "key": "ActMotorVolt"
-  },{
+    "key": "ActMotorVolt",
+    "field_type": "Float"
+  },
+  {
     "display_name": "Actual motor current",
-    "key": "ActMotorCurr"
+    "key": "ActMotorCurr",
+    "field_type": "Float"
   },
   {
     "display_name": "Actual motor Torque",
-    "key": "ActMotorTorq"
+    "key": "ActMotorTorq",
+    "field_type": "Float"
   },
   {
     "display_name": "Target motor Torque",
-    "key": "TargetMotorTorq"
+    "key": "TargetMotorTorq",
+    "field_type": "Float"
   },
   {
     "display_name": "CId",
-    "key": "CId"
+    "key": "CId",
+    "field_type": "Float"
   },
   {
     "display_name": "CIq",
-    "key": "CIq"
+    "key": "CIq",
+    "field_type": "Float"
   },
   {
     "display_name": "Ud",
-    "key": "Ud"
+    "key": "Ud",
+    "field_type": "Float"
   },
   {
     "display_name": "Uq",
-    "key": "Uq"
+    "key": "Uq",
+    "field_type": "Float"
   },
   {
     "display_name": "Motor Current",
-    "key": "Mot_i"
+    "key": "Mot_i",
+    "field_type": "Float"
   },
   {
     "display_name": "Capacitor Voltage",
-    "key": "CapVolt"
+    "key": "CapVolt",
+    "field_type": "Float"
   },
   {
     "display_name": "BMS Connected",
-    "key": "BMSConnected"
+    "key": "BMSConnected",
+    "field_type": "Boolean"
   },
   {
     "display_name": "Cell Temperature Maximum",
-    "key": "cellTempMax"
+    "key": "cellTempMax",
+    "field_type": "String"
   },
   {
     "display_name": "Cell Temperature Minimum",
-    "key": "cellTempMin"
+    "key": "cellTempMin",
+    "field_type": "String"
   },
   {
     "display_name": "Sevecon Connected",
-    "key": "Sevconconnected"
-  },
-  {
-    "display_name": "Velocity",
-    "key": "velocity"
+    "key": "Sevconconnected",
+    "field_type": "Boolean"
   },
   {
     "display_name": "Fault code",
-    "key": "Faultcode"
+    "key": "Faultcode",
+    "field_type": "Integer"
   },
   {
     "display_name": "Fault level",
-    "key": "FaultLevel"
+    "key": "FaultLevel",
+    "field_type": "String"
   },
   {
     "display_name": "Voltage Mod",
-    "key": "VoltMod"
+    "key": "VoltMod",
+    "field_type": "Float"
   },
   {
     "display_name": "EVCC Sender",
-    "key": "EVCCSender"
+    "key": "EVCCSender",
+    "field_type": "Integer"
   },
   {
     "display_name": "Temperature Status",
-    "key": "Tempstatus"
+    "key": "Tempstatus",
+    "field_type": "String"
   },
   {
     "display_name": "IpV status",
-    "key": "IpVstatus"
+    "key": "IpVstatus",
+    "field_type": "String"
   },
   {
     "display_name": "HW status",
-    "key": "HWstatus"
+    "key": "HWstatus",
+    "field_type": "String"
   },
   {
     "display_name": "OpChar Voltage",
-    "key": "OpCharVoltage"
+    "key": "OpCharVoltage",
+    "field_type": "Float"
   },
-   {
+  {
     "display_name": "OpChar Current",
-    "key": "OpCharCurrent"
+    "key": "OpCharCurrent",
+    "field_type": "Float"
   },
-   {
+  {
     "display_name": "HChar Voltage",
-    "key": "HCharVoltage"
+    "key": "HCharVoltage",
+    "field_type": "Float"
   },
-   {
+  {
     "display_name": "HChar Current",
-    "key": "HCharCurrent"
+    "key": "HCharCurrent",
+    "field_type": "Float"
   },
   {
     "display_name": "Battery Temperature",
-    "key": "BattTemp"
-  }]
+    "key": "BattTemp",
+    "field_type": "Float"
+  },
+  {
+    "display_name": "Charger Control",
+    "key": "CharControl",
+    "field_type": "Boolean"
+  }
+]
