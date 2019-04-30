@@ -162,7 +162,7 @@
   {
     "display_name": "Battery Temperature",
     "key": "BattTemp",
-    "field_type": "Float"
+    "field_type": "String"
   },
   {
     "display_name": "Charger Control",
